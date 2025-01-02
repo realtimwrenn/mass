@@ -1,8 +1,6 @@
 
 # Second Sunday of Christmas
 
-January 5<sup>th</sup>, 2025
-
 ![Jubilee Door](images/jubilee-door.jpg)
 
 ---
