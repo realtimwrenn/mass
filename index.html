@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Mass Presentation</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/black.css" id="theme">
+	<style>
+		h1,
+		h2 {
+			text-transform: uppercase;
+		}
+
+		.slides section {
+			line-height: 1.4;
+			margin: 0 0;
+		}
+
+		.slides section p {
+			font-size: 2.5em;
+			text-align: center;
+		}
+
+		.slides section p em strong
+		{
+			text-decoration: underline;
+		}
+	</style>
+</head>
+
+<body>
+	<div class="reveal">
+		<div class="slides">
+			<section data-markdown="mass.md" data-separator="^\n---\n" data-separator-vertical="^\n--\n" data-charset="utf-8"></section>
+		</div>
+	</div>
+
+	<script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/markdown.js"></script>
+	<script>
+		Reveal.initialize({
+			width: 1920, // Explicit widescreen size
+			height: 1080, // Matches 16:9 ratio			controls: true,
+			progress: true,
+			history: true,
+			center: true,
+			plugins: [RevealMarkdown]
+		});
+	</script>
+</body>
+
+</html>
