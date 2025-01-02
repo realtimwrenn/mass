@@ -305,4 +305,4 @@ Amen.
 
 ![Jubilee 2025 Logo](images/jubilee-2025-logo.png)
 
-***Hope does not disappoint.***
+**Hope does not disappoint.**
