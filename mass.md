@@ -3,6 +3,8 @@
 
 January 5<sup>th</sup>, 2025
 
+![Jubilee Door](images/jubilee-door.jpg)
+
 ---
 
 Jesus is the One sent by God who speaks to us about the wisdom and truth of God. By accepting him we too become children of God and are filled with grace and truth.
