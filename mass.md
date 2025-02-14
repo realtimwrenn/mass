@@ -1,321 +1,256 @@
+# 6th Sunday Ordinary - The Word of the Lord
 
-# Second Sunday of Christmas
+## Kilcornan Parish
 
-![Jubilee Door](images/jubilee-door.jpg)
+### Entrance
 
-<button id="fullscreen-btn" style="
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    padding: 10px 15px;
-    background: black;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    z-index: 1000;
-">Fullscreen</button>
+**We are gathering together unto Him**  
+We are gathering together unto Him,  
+We are gathering together unto Him;  
+Unto Him shall the gathering of the people be;  
+We are gathering together unto Him.  
 
----
-
-Jesus is the One sent by God who speaks to us about the wisdom and truth of God. By accepting him we too become children of God and are filled with grace and truth.
+We are gathering together unto Him,  
+We are singing together unto Him,  
+We are singing together unto Him;  
+Unto Him shall the singing of the people be;  
+We are singing together unto Him.
 
 ---
 
-# Entrance Antiphon
+## Introductory Rites
+
+### Sign of the Cross
+
+### Greeting
+
+**The Lord be with you.**  
+**R./ And with your spirit.**
+
+### Penitential Act
+
+I confess to almighty God and to you, my brothers and sisters,  
+that I have greatly sinned, in my thoughts and in my words,  
+in what I have done and in what I have failed to do.  
+
+*And, striking their breast, saying:*  
+**Through my fault, through my fault, through my most grievous fault;**  
+
+Therefore, I ask blessed Mary ever-Virgin, all the Angels and Saints,  
+and you, my brothers and sisters, to pray for me to the Lord our God.  
+
+#### Penitential Responses
+
+- **You were sent to heal the contrite of heart:** Lord, Have Mercy. **R/ Lord, Have Mercy**  
+- **You came to call sinners:** Christ, Have Mercy. **R/ Christ, Have Mercy**  
+- **You are seated at the right hand of the Father to intercede for us:** Lord, Have Mercy. **R/ Lord, Have Mercy**  
 
 ---
 
-When a profound silence covered all things and night was in the middle of its course, your all-powerful Word, O Lord, bounded from heaven's royal throne.
+## Gloria
 
----
-
-# Penitential Act
-
----
-
-Lord Jesus, you raise us to new life:  
-Lord, have mercy.  
-
-***Lord, have mercy.***
-
----
-
-Lord Jesus, you forgive us our sins:  
-Christ, have mercy.  
-
-***Christ, have mercy.***
-
----
-
-Lord Jesus, you feed us with your body and blood:  
-Lord, have mercy.
-
-***Lord, have mercy.***
-
----
-
-May almighty God have mercy on us
-
-***Amen.***
-
----
-
-# The Gloria
-
----
-
-Glory to God in the highest,  
-and on earth peace to people of good will.  
-We praise you, we bless you,  
-
----
-
-we adore you, we glorify you,  
-we give you thanks for your great glory,  
-Lord God, heavenly King,  
-
----
-
+**Glory to God in the highest, and on earth peace to people of good will.**  
+We praise you, we bless you, we adore you, we glorify you,  
+we give you thanks for your great glory, Lord God, heavenly King,  
 O God, almighty Father.  
-Lord Jesus Christ, Only Begotten Son,  
-Lord God, Lamb of God, Son of the Father,  
+
+Lord Jesus Christ, Only Begotten Son, Lord God, Lamb of God,  
+Son of the Father, you take away the sins of the world, have mercy on us;  
+you take away the sins of the world, receive our prayer;  
+you are seated at the right hand of the Father, have mercy on us.  
+
+For you alone are the Holy One, you alone are the Lord,  
+you alone are the Most High, Jesus Christ,  
+with the Holy Spirit, in the glory of God the Father. **Amen.**  
 
 ---
 
-you take away the sins of the world,  
-have mercy on us;  
-you take away the sins of the world,  
+## Liturgy of the Word
+
+### First Reading
+
+A reading from …  
+**At the end of the reading:**  
+**The word of the Lord**  
+**Thanks be to God**
+
+### Psalm  
+
+**R/ Happy the man who has placed his trust in the Lord.**  
+
+### Second Reading  
+
+A reading from …  
+**At the end of the reading:**  
+**The word of the Lord**  
+**Thanks be to God**
+
+### Gospel Acclamation  
+
+**Alleluia, alleluia!**  
+Rejoice and be glad,  
+Your reward will be great in heaven.  
+**Alleluia!**  
+
+### Gospel  
+
+**The Lord be with you.**  
+**R./ And with your spirit.**  
+A reading from the holy Gospel according to N.  
+**Glory to you, O Lord.**  
+
+**At the end of the Gospel:**  
+**The Gospel of the Lord.**  
+**Praise to you, Lord Jesus Christ.**  
+
+### Homily
 
 ---
 
-receive our prayer;  
-you are seated at the right hand  
-of the Father,  
+## Apostle’s Creed
 
----
+I believe in God, the Father almighty, Creator of heaven and earth,  
+and in Jesus Christ, his only Son, our Lord.  
 
-have mercy on us.  
-For you alone are the Holy One,  
-you alone are the Lord,  
+*At the words that follow, up to and including ‘and became man’, all bow*  
 
----
-
-you alone are the Most High,  
-Jesus Christ, with the Holy Spirit,  
-in the glory of God the Father. Amen.
-
----
-
-# Opening Prayer
-
----
-
-Almighty ever-living God, splendour of faithful souls, graciously be pleased to fill the world with your glory, 
-
----
-
-and show yourself to all peoples by the radiance of your light. Through our Lord Jesus Christ
-
----
-
-# Liturgy Of The Word
-
-![Liturgy Of The Word](images/liturgy-of-the-word.png)
-
----
-
-# Responsorial Psalm
-
-***The word was made flesh, and lived among us.***
-
----
-
-# Gospel Acclamation
-
----
-
-Alleluia, alleluia!  
-Glory be to you, O Christ, proclaimed to the pagans; Glory be to you, O Christ, believed in by the world.
-
-**Alleluia!**
-
----
-
-# Apostles' Creed
-
----
-
-I believe in God, the Father almighty,  
-Creator of heaven and earth,  
-and in Jesus Christ, his only Son, our Lord,  
-
----
-
-*(All bow for the following two lines)*:  
-who was conceived by the Holy Spirit,  
+Who was conceived by the Holy Spirit,  
 born of the Virgin Mary,  
-
----
-
 suffered under Pontius Pilate,  
-was crucified, died and was buried;  
-he descended into hell;  
+was crucified, died, and was buried;  
+he descended into hell.  
 
----
-
-on the third day he rose again from the dead;  
+On the third day, he rose again from the dead;  
 he ascended into heaven,  
-and is seated at the right hand of God,  
+and is seated at the right hand of God the Father almighty.  
+
+From there, he will come to judge the living and the dead.  
+I believe in the Holy Spirit, the holy catholic Church,  
+the communion of saints, the forgiveness of sins,  
+the resurrection of the body, and life everlasting. **Amen.**  
 
 ---
 
-the Father almighty;  
-from there he will come to judge  
-the living and the dead.  
+## Prayer of the Faithful
+
+**Lord, Hear Us**  
+**Lord, Graciously hear us**  
 
 ---
 
-I believe in the Holy Spirit,  
-the holy catholic Church,  
-the communion of saints,  
+## Offertory  
+
+### Gifts Of Bread And Wine  
+
+Gifts of bread and wine, Gifts we've offered  
+Fruits of labour, fruits of love  
+Taken, offered, sanctified  
+Blessed and broken, Words of one who died  
+
+Take my body, take my saving blood  
+Gifts of bread and wine, Christ our Lord  
+
+Christ our Saviour, Living presence here  
+As he promised while on earth  
+I am with you for all time  
+I am with you in this bread and wine  
 
 ---
 
-the forgiveness of sins,  
-the resurrection of the body,  
-and life everlasting. Amen.
+## Liturgy of the Eucharist
+
+### Preparation of Gifts  
+
+**Blessed are you, Lord, …**  
+**Blessed be God forever.**  
+
+Pray, brethren (brothers and sisters),  
+that my sacrifice and yours may be acceptable to God, the almighty Father.  
+**May the Lord accept the sacrifice at your hands**  
+for the praise and glory of his name,  
+for our good and the good of all his holy Church.  
 
 ---
 
-# Prayers Of The Faithful
+## Eucharistic Prayer  
+
+The Lord be with you.  
+**And with your spirit.**  
+Lift up your hearts.  
+**We lift them up to the Lord.**  
+Let us give thanks to the Lord our God.  
+**It is right and just.**  
+
+**Holy, Holy, Holy Lord God of hosts.**  
+Heaven and earth are full of your glory.  
+Hosanna in the highest.  
+Blessed is he who comes in the name of the Lord.  
+Hosanna in the highest.  
 
 ---
 
-Father, as we continue to celebrate your wonderful gift of the Word made flesh, we bring our prayers to you with hope and joy.
+## Communion Rite
 
----
+### Our Father  
 
-In today’s Gospel, we read these words about Jesus – He was in the world, yet the world did not know him. He came to his own, and his own did not accept him.
-
----
-
-We pray to the Lord  
-***R: Lord hear us***
-
----
-
-As we begin this New Year, we pray for all followers of Christ and for a new beginning in our Church.
-
-We pray to the Lord  
-***R: Lord hear us***
-
----
-
-We pray for all those who have helped and supported the poor and needy in our parish and community over this Christmas holiday period.
-
-We pray to the Lord  
-***R: Lord hear us***
-
----
-
-As we mark the first week of the Church’s Jubilee Year 2025, we pray with Pope Francis for an end to war and oppression
-
-We pray to the Lord  
-***R: Lord hear us***
-
----
-
-We pray for our youth of this parish who return to school this week. We pray that they may be safe in their travels, in their homes, at school and at play.
-
-We pray to the Lord  
-***R: Lord hear us***
-
----
-We bow our heads and remember in silence our own personal intentions and the intentions of those who have asked for our prayers.
-
-We pray to the Lord  
-***R: Lord hear us***
-
----
-
-Father, we ask you today to plant the seed of your love in our hearts that we may never stray or be lost to you in our daily lives. We make this prayer through Jesus Christ, our Lord. Amen.
-
----
-
-# Liturgy Of The Eucharist
-
-Through Christ our Lord.
-
-![Liturgy Of The Eucharist](images/liturgy-of-the-eucharist.png)
-
----
-
-# The Mystery of Faith
-
-We proclaim your Death, O Lord, and profess your Resurrection until you come
-again.
-
----
-
-# Our Father
-
----
-
-Our Father, who art in heaven,  
+Our Father, Who art in heaven,  
 hallowed be Thy name;  
 Thy kingdom come;  
-
----
-
 Thy will be done on earth as it is in heaven.  
-Give us this day our daily bread,  
+
+Give us this day our daily bread;  
 and forgive us our trespasses,  
-
----
-
 as we forgive those who trespass against us;  
 and lead us not into temptation,  
 but deliver us from evil.  
-Amen.  
 
 ---
 
-# Communion Antiphon
+## Breaking of the Bread  
+
+**Lamb of God, you take away the sins of the world, have mercy on us.**  
+**Lamb of God, you take away the sins of the world, have mercy on us.**  
+**Lamb of God, you take away the sins of the world, grant us peace.**  
+
+### Invitation to Communion  
+
+Behold the Lamb of God,  
+behold him who takes away the sins of the world.  
+Blessed are those called to the supper of the Lamb.  
+
+**Lord, I am not worthy that you should enter under my roof,  
+but only say the word and my soul shall be healed.**  
 
 ---
 
-**To all who would accept him, he gave the power to become children of God.**
+## Prayer After Communion  
+
+Lord our God, we humbly ask you,  
+that, through the working of this mystery,  
+our offences may be cleansed,  
+and our just desires fulfilled.  
+Through Christ our Lord. **Amen.**  
 
 ---
 
-# Jubilee Prayer
+## Jubilee Prayer
+
+Heavenly Father,  
+May the faith in Jesus Christ  
+and the fire of love from the Holy Spirit  
+renew our hope for your Kingdom.  
+
+Transform us into sowers of the Gospel,  
+bringing hope to humanity and creation,  
+as we await the new heaven and earth where Christ reigns. **Amen.**  
 
 ---
 
-**Heavenly Father,**  
-May the faith in Jesus Christ and the fire of love from the Holy Spirit renew our hope for your Kingdom.  
+## Recession
 
----
+**Holy Virgin, by God's Decree**  
+Mary, We Praise You, Hail, Full Of Grace.  
+Ave, Ave, Ave, Maria.  
 
-Transform us into sowers of the Gospel, bringing hope to humanity and creation, as we await the new heaven and earth where Christ reigns.  
-***Amen.***
-
----
-
-# Prayer After Communion
-
----
-
-Lord our God, we humbly ask you, that, through the working of this mystery, our
-offences may be cleansed and our just desires fulfilled.  
-Through Christ our Lord.  
-Amen.
-
----
-
-## Go in the Peace of Christ
-
-![Jubilee 2025 Logo](images/jubilee-2025-logo.png)
-
-**Hope does not disappoint.**
+**Thank you for your presence!**  
+Kilcornan Parish - **Happy Feast Day!**  
