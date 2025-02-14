@@ -27,9 +27,9 @@
 			text-decoration: underline;
 		}
 
-		#fullscreen-btn {
+		#fullscreen-btn, #exit-fullscreen-btn {
 			position: fixed;
-			bottom: 20px;
+			top: 20px;
 			right: 20px;
 			padding: 10px 15px;
 			background: black;
@@ -38,6 +38,10 @@
 			border-radius: 5px;
 			cursor: pointer;
 			z-index: 1000;
+		}
+
+		#exit-fullscreen-btn {
+			display: none;
 		}
 	</style>
 </head>
@@ -49,17 +53,22 @@
 		</div>
 	</div>
 
+	<!-- Add the audio element -->
+	<audio id="background-audio" loop>
+		<source src="media/audio/file.mp3" type="audio/mpeg">
+		Your browser does not support the audio element.
+	</audio>
+
+	<button id="fullscreen-btn">&#x26F6;</button>
+	<button id="exit-fullscreen-btn">&#x2715;</button>
+
 	<script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/markdown.js"></script>
 	<script>
 		function addFullscreenToggleFunctionality() {
-			// Create the fullscreen button
-			let fullScreenButton = document.createElement('button');
-			fullScreenButton.id = "fullscreen-btn";
-			fullScreenButton.innerText = "Fullscreen";
-			fullScreenButton.className = "fullscreen-btn";
+			let fullScreenButton = document.getElementById("fullscreen-btn");
+			let exitFullScreenButton = document.getElementById("exit-fullscreen-btn");
 
-			// Add fullscreen toggle functionality
 			fullScreenButton.addEventListener("click", function () {
 				let elem = document.documentElement;
 
@@ -73,22 +82,25 @@
 					} else if (elem.msRequestFullscreen) {
 						elem.msRequestFullscreen();
 					}
-					fullScreenButton.style.display = "none"; // Hide button after entering fullscreen
-				} else {
-					document.exitFullscreen();
-					fullScreenButton.innerText = "Fullscreen";
+					fullScreenButton.style.display = "none";
+					exitFullScreenButton.style.display = "block";
 				}
 			});
 
-			// Show button again when exiting fullscreen
+			exitFullScreenButton.addEventListener("click", function () {
+				if (document.fullscreenElement) {
+					document.exitFullscreen();
+					fullScreenButton.style.display = "block";
+					exitFullScreenButton.style.display = "none";
+				}
+			});
+
 			document.addEventListener("fullscreenchange", function () {
 				if (!document.fullscreenElement) {
 					fullScreenButton.style.display = "block";
+					exitFullScreenButton.style.display = "none";
 				}
 			});
-
-			// Append button to the body
-			document.body.appendChild(fullScreenButton);
 		}
 
 		let revealSetting = {
@@ -103,8 +115,22 @@
 
 		Reveal.initialize(revealSetting);
 
-		Reveal.on('ready', addFullscreenToggleFunctionality);
+		Reveal.on('ready', function(event) {
+			addFullscreenToggleFunctionality();
 
+			// Play the background audio when the presentation starts
+			let audio = document.getElementById('background-audio');
+			audio.play();
+
+			// Pause the audio when the presentation is paused
+			Reveal.on('slidechanged', function(event) {
+				if (Reveal.isPaused()) {
+					audio.pause();
+				} else {
+					audio.play();
+				}
+			});
+		});
 	</script>
 </body>
 
