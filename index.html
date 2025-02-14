@@ -27,7 +27,8 @@
 			text-decoration: underline;
 		}
 
-		#fullscreen-btn, #exit-fullscreen-btn {
+		#fullscreen-btn,
+		#exit-fullscreen-btn {
 			position: fixed;
 			top: 20px;
 			right: 20px;
@@ -59,8 +60,8 @@
 		Your browser does not support the audio element.
 	</audio>
 
-	<button id="fullscreen-btn">&#x26F6;</button>
-	<button id="exit-fullscreen-btn">&#x2715;</button>
+	<button id="fullscreen-btn" type="button">&#x26F6;</button>
+	<button id="exit-fullscreen-btn" type="button">&#x2715;</button>
 
 	<script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/markdown.js"></script>
@@ -115,7 +116,7 @@
 
 		Reveal.initialize(revealSetting);
 
-		Reveal.on('ready', function(event) {
+		Reveal.on('ready', function (event) {
 			addFullscreenToggleFunctionality();
 
 			// Play the background audio when the presentation starts
@@ -123,7 +124,7 @@
 			audio.play();
 
 			// Pause the audio when the presentation is paused
-			Reveal.on('slidechanged', function(event) {
+			Reveal.on('slidechanged', function (event) {
 				if (Reveal.isPaused()) {
 					audio.pause();
 				} else {
