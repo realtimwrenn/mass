@@ -1,10 +1,14 @@
+
 # 6th Sunday Ordinary - The Word of the Lord
 
 ## Kilcornan Parish
 
-### Entrance
+---
 
-**We are gathering together unto Him**  
+## Entrance
+
+### We are gathering together unto Him
+
 We are gathering together unto Him,  
 We are gathering together unto Him;  
 Unto Him shall the gathering of the people be;  
