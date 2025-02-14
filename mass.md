@@ -3,6 +3,19 @@
 
 ![Jubilee Door](images/jubilee-door.jpg)
 
+<button id="fullscreen-btn" style="
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 15px;
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 1000;
+">Fullscreen</button>
+
 ---
 
 Jesus is the One sent by God who speaks to us about the wisdom and truth of God. By accepting him we too become children of God and are filled with grace and truth.
