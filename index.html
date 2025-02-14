@@ -44,6 +44,20 @@
 		#exit-fullscreen-btn {
 			display: none;
 		}
+
+		#play-btn {
+			position: fixed;
+			top: 50%;
+			left: 50%;
+			transform: translate(-50%, -50%);
+			padding: 20px 30px;
+			background: black;
+			color: white;
+			border: none;
+			border-radius: 5px;
+			cursor: pointer;
+			z-index: 1000;
+		}
 	</style>
 </head>
 
@@ -62,6 +76,7 @@
 
 	<button id="fullscreen-btn" type="button">&#x26F6;</button>
 	<button id="exit-fullscreen-btn" type="button">&#x2715;</button>
+	<button id="play-btn" type="button">Play</button>
 
 	<script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/markdown.js"></script>
@@ -116,14 +131,17 @@
 
 		Reveal.initialize(revealSetting);
 
-		Reveal.on('ready', function (event) {
-			addFullscreenToggleFunctionality();
-
-			// Play the background audio when the presentation starts
+		document.getElementById('play-btn').addEventListener('click', function () {
 			let audio = document.getElementById('background-audio');
-			audio.play().catch(function(error) {
+			audio.play().catch(function (error) {
 				console.error("Audio playback failed:", error);
 			});
+
+			this.style.display = 'none'; // Hide the play button after clicking
+		});
+
+		Reveal.on('ready', function (event) {
+			addFullscreenToggleFunctionality();
 		});
 	</script>
 </body>
