@@ -55,7 +55,7 @@
 	</div>
 
 	<!-- Add the audio element -->
-	<audio id="background-audio" loop>
+	<audio id="background-audio">
 		<source src="media/audio/we-are-gathering-together-unto-him.mp3" type="audio/mpeg">
 		Your browser does not support the audio element.
 	</audio>
@@ -122,15 +122,6 @@
 			// Play the background audio when the presentation starts
 			let audio = document.getElementById('background-audio');
 			audio.play();
-
-			// Pause the audio when the presentation is paused
-			Reveal.on('slidechanged', function (event) {
-				if (Reveal.isPaused()) {
-					audio.pause();
-				} else {
-					audio.play();
-				}
-			});
 		});
 	</script>
 </body>
