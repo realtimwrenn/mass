@@ -121,7 +121,9 @@
 
 			// Play the background audio when the presentation starts
 			let audio = document.getElementById('background-audio');
-			audio.play();
+			audio.play().catch(function(error) {
+				console.error("Audio playback failed:", error);
+			});
 		});
 	</script>
 </body>
