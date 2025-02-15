@@ -7,58 +7,7 @@
 	<title>Mass Presentation</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.css">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js/dist/theme/black.css" id="theme">
-	<style>
-		h1,
-		h2 {
-			text-transform: uppercase;
-		}
-
-		.slides section {
-			line-height: 1.4;
-			margin: 0 0;
-		}
-
-		.slides section p {
-			font-size: 2.5em;
-			text-align: center;
-		}
-
-		.slides section p em strong {
-			text-decoration: underline;
-		}
-
-		#fullscreen-btn,
-		#exit-fullscreen-btn {
-			position: fixed;
-			top: 20px;
-			right: 20px;
-			padding: 10px 15px;
-			background: black;
-			color: white;
-			border: none;
-			border-radius: 5px;
-			cursor: pointer;
-			z-index: 1000;
-		}
-
-		#exit-fullscreen-btn {
-			display: none;
-		}
-
-		#play-btn {
-			position: fixed;
-			top: 50%;
-			left: 50%;
-			transform: translate(-50%, -50%);
-			padding: 20px 30px;
-			background: black;
-			color: white;
-			border: none;
-			border-radius: 5px;
-			cursor: pointer;
-			z-index: 1000;
-		}
-	</style>
+	<link rel="stylesheet" href="src/css/kilcornan-parish.css">
 </head>
 
 <body>
@@ -80,44 +29,8 @@
 
 	<script src="https://cdn.jsdelivr.net/npm/reveal.js/dist/reveal.js"></script>
 	<script src="https://cdn.jsdelivr.net/npm/reveal.js/plugin/markdown/markdown.js"></script>
+	<script src="src/js/full-screen-controls.js"></script>
 	<script>
-		function addFullscreenToggleFunctionality() {
-			let fullScreenButton = document.getElementById("fullscreen-btn");
-			let exitFullScreenButton = document.getElementById("exit-fullscreen-btn");
-
-			fullScreenButton.addEventListener("click", function () {
-				let elem = document.documentElement;
-
-				if (!document.fullscreenElement) {
-					if (elem.requestFullscreen) {
-						elem.requestFullscreen();
-					} else if (elem.mozRequestFullScreen) {
-						elem.mozRequestFullScreen();
-					} else if (elem.webkitRequestFullscreen) {
-						elem.webkitRequestFullscreen();
-					} else if (elem.msRequestFullscreen) {
-						elem.msRequestFullscreen();
-					}
-					fullScreenButton.style.display = "none";
-					exitFullScreenButton.style.display = "block";
-				}
-			});
-
-			exitFullScreenButton.addEventListener("click", function () {
-				if (document.fullscreenElement) {
-					document.exitFullscreen();
-					fullScreenButton.style.display = "block";
-					exitFullScreenButton.style.display = "none";
-				}
-			});
-
-			document.addEventListener("fullscreenchange", function () {
-				if (!document.fullscreenElement) {
-					fullScreenButton.style.display = "block";
-					exitFullScreenButton.style.display = "none";
-				}
-			});
-		}
 
 		let revealSetting = {
 			center: true,

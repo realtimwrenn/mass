@@ -1,0 +1,50 @@
+h1,
+h2 {
+	text-transform: uppercase;
+}
+
+.slides section {
+	line-height: 1.4;
+	margin: 0 0;
+}
+
+.slides section p {
+	font-size: 2.5em;
+	text-align: center;
+}
+
+.slides section p em strong {
+	text-decoration: underline;
+}
+
+#fullscreen-btn,
+#exit-fullscreen-btn {
+	position: fixed;
+	top: 20px;
+	right: 20px;
+	padding: 10px 15px;
+	background: black;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	z-index: 1000;
+}
+
+#exit-fullscreen-btn {
+	display: none;
+}
+
+#play-btn {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	padding: 20px 30px;
+	background: black;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	z-index: 1000;
+}
