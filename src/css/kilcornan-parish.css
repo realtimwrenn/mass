@@ -48,3 +48,40 @@ h2 {
 	cursor: pointer;
 	z-index: 1000;
 }
+
+/* Set overall background */
+.reveal {
+	background-color: white;
+}
+
+/* Title Styling */
+.reveal h1 {
+	color: red;
+	font-family: "Garamond", "Times New Roman", serif;
+	font-weight: bold;
+}
+
+/* Main Text Styling */
+.reveal p,
+.reveal h2,
+.reveal h3 {
+	color: #9c6d2e;
+	/* Gold-brown color */
+	font-family: "Garamond", "Times New Roman", serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+/* Decorative Borders */
+.reveal .slide-background {
+	background-image: url('border-corner.svg');
+	/* Add a decorative SVG image */
+	background-position: top left, bottom right;
+	background-repeat: no-repeat;
+}
+
+/* Bottom Border */
+.reveal .slides {
+	border-bottom: 4px solid #9c6d2e;
+	/* Gold-colored bottom border */
+}
