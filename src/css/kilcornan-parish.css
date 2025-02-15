@@ -74,7 +74,7 @@ h2 {
 
 /* Decorative Borders */
 .reveal .slide-background {
-	background-image: url('border-corner.svg');
+	background-image: url('/src/svg/border-corner.svg');
 	/* Add a decorative SVG image */
 	background-position: top left, bottom right;
 	background-repeat: no-repeat;
