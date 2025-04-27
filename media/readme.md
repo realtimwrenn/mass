@@ -17,4 +17,8 @@ The media files in this project are sourced from the following locations:
 
 | Title                              | File                                                                                   | Source                                        | Author          | Notes                         |
 |------------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------|-----------------|-------------------------------|
-| We are gathering together unto Him | [we-are-gathering-together-unto-him.mp3](audio/we-are-gathering-together-unto-him.mp3) | <https://www.youtube.com/watch?v=EA8M6--XN-U> | Anurag Satpathy | First 49 seconds of the video |
+| We are gathering together unto Him | [we-are-gathering-together-unto-him.m4a](audio/we-are-gathering-together-unto-him.m4a) | <https://www.youtube.com/watch?v=EYtlMTg7mm8> | Providence | First 49 seconds of the video |
+
+### Tools Used
+
+- <https://mp3cut.net/>
