@@ -9,11 +9,12 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.1.0/dist/theme/white.css">
 	<style>
 		.top-banner {
-			background-color: #1900ff;
+			background-color: hsl(246, 100%, 50%);
 			color: white;
-			text-align: center;
-			padding: 0;
 			font-size: 1em;
+			padding: 0;
+			text-align: center;
+			text-transform: uppercase;
 		}
 
 		.slide-content {
@@ -25,14 +26,17 @@
 		}
 
 		.slide-content img {
+			align-self: flex-start;
 			max-width: 40%;
 			height: auto;
 			border-radius: 0px;
 		}
 
 		.slide-content .text {
-			max-width: 50%;
+			align-self: flex-start;
 			font-size: 1.2em;
+			max-width: 60%;
+			text-align: left;
 		}
 
 		.bottom-footer {
@@ -41,6 +45,22 @@
 			margin-top: 0px;
 		}
 	</style>
+	<script>
+		let revealSetting = {
+			center: true,
+			controls: true,
+			height: 1080, // Matches 16:9 ratio
+			history: true,
+			plugins: [RevealMarkdown],
+			progress: true,
+			width: 1920, // Matches 16:9 ratio
+		};
+		Reveal.initialize(revealSetting);
+
+		Reveal.on('ready', function (event) {
+			addFullscreenToggleFunctionality();
+		});
+	</script>
 </head>
 
 <body>
@@ -51,7 +71,7 @@
 				<div class="slide-content">
 					<img src="images/the-way-of-light-beyond-the-cross/station-01.png" alt="Slide 3 Image">
 					<div class="text">
-						<p>"The women discover that the tomb where Jesus was placed is empty."<br><em>Luke 24:1-9</em></p>
+						<em>The women discover that the tomb where Jesus was placed is empty.<br/><br/>Luke 24:1-9</em>
 					</div>
 				</div>
 				<div class="bottom-footer"></div>
