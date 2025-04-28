@@ -1,45 +1,48 @@
 ﻿
 # The Way of Light beyond the Cross
 
-The 14 stations from Easter to Pentecost 
+Download the PDF version of this booklet [here](http://www.salesianmissions.co.za/The-Way-of-Light-beyond-the-Cross-stations-booklet.pdf).  
 
-***INSTRUCTIONS** - At each station: The event is announced* 
+The 14 stations from Easter to Pentecost  
 
-*Short refrain:* 
+**INSTRUCTIONS** - At each station:  
+*The event is announced*  
+*Short refrain:*  
 
-*L. We adore you O Christ and we praise you;* 
+*L. We adore you O Christ and we praise you;*  
 
-***R. Because by your resurrection you fill us with hope and joy, Alleluia**!* 
+***R. Because by your resurrection you fill us with hope and joy, Alleluia!***  
 
-*The short scripture passage is read by a leader.* 
-
-*All join in the short prayer at the invitation: Let us pray. All join the short hymn at the invitation – Let us sing* 
+*The short scripture passage is read by a leader.*  
+*All join in the short prayer at the invitation: Let us pray.*  
+*All join the short hymn at the invitation – Let us sing*  
 
 ## Introduction: Acts 13:30-33
 
-“God raised Jesus from the dead, and for many days he was seen by those who had traveled with him from Galilee to Jerusalem. They are now witnesses for him to the people of Israel. And we are here to bring the Good News to you! What God promised our ancestors he would do, he has now done for us, who are their descendants, by raising Jesus to life.”
+"God raised Jesus from the dead, and for many days he was seen by those who had traveled with him from Galilee to Jerusalem. They are now witnesses for him to the people of Israel. And we are here to bring the Good News to you! What God promised our ancestors he would do, he has now done for us, who are their descendants, by raising Jesus to life."  
 
-## First Station: Jesus is Risen! The women discover that the tomb where Jesus was placed is empty.
+## First Station: Jesus is Risen! The women discover that the tomb where Jesus was placed is empty  
 
-![Image](station-01.jpeg)
+![Image](images/the-way-of-light-beyond-the-cross/station-01.jpeg)
 
-*Very early on Sunday morning, the women went to the tomb, carrying the spices they had prepared. They found the stone rolled away from the entrance to the tomb, so they went in; but they did not find the body. Suddenly two men in bright shining clothes stood by them and said: “Why are you looking among the dead for one who is alive? He is not here; he is risen!” Luke 24:1- 9 (John 20:1-2 / Matthew 28:1-10/ Mark 16:1-8)* 
+*Very early on Sunday morning, the women went to the tomb, carrying the spices they had prepared. They found the stone rolled away from the entrance to the tomb, so they went in; but they did not find the body. Suddenly two men in bright shining clothes stood by them and said: "Why are you looking among the dead for one who is alive? He is not here; he is risen!" Luke 24:1- 9 (John 20:1-2 / Matthew 28:1-10/ Mark 16:1-8)*  
 
 ### Let us pray
 
-Risen Lord, your resurrection is truly good news! We praise you for your victory over sin and death! Your resurrection brings us hope, salvation and the beginning of a new life in you! Help us to keep growing in the conviction that at the end, our life is not ended, only changed! Amen. 
+Risen Lord, your resurrection is truly good news! We praise you for your victory over sin and death! Your resurrection brings us hope, salvation and the beginning of a new life in you! Help us to keep growing in the conviction that at the end, our life is not ended, only changed! Amen.  
 
 ### Let us sing
 
-Sing Alleluia to the Lord (x2) Sing Alleluia sing Alleluia. 
-
-Sing Alleluia to the Lord!
-
-Jesus is risen from the dead (x2) Jesus is risen, Jesus is risen. Jesus is risen from the dead!
+Sing Alleluia to the Lord (x2)  
+Sing Alleluia sing Alleluia.  
+Sing Alleluia to the Lord!  
+Jesus is risen from the dead (x2)  
+Jesus is risen, Jesus is risen.  
+Jesus is risen from the dead!  
 
 ## Second Station: Peter and John run to the tomb
 
-![Image](station-02.jpeg)  
+![Image](images/the-way-of-light-beyond-the-cross/station-02.jpeg)  
 
 *Peter and John ran to the tomb. They went in and saw the linen cloth lying there… They saw and they believed! John 20:3-9 (Luke 24:10-12)*  
 
@@ -57,9 +60,9 @@ This is the day when he rose again!
 
 ## Third Station: Jesus appears to Mary of Magdala
 
-![Image](station-03.jpeg)
+![Image](images/the-way-of-light-beyond-the-cross/station-03.jpeg)
 
-Mary stood crying outside the tomb. She bent over and saw two angels sitting where the body of Jesus had been. “Woman, why are you crying?” they asked her. She turned around and saw Jesus standing there although she did not recognise him. Thinking he was the gardener she said: “Tell me where you have put him and I will go fetch him!” Jesus said to her: “Mary!” facing him she replied: “Rabboni”, meaning “master!” John 20:11-18*  
+Mary stood crying outside the tomb. She bent over and saw two angels sitting where the body of Jesus had been. "Woman, why are you crying?" they asked her. She turned around and saw Jesus standing there although she did not recognise him. Thinking he was the gardener she said: "Tell me where you have put him and I will go fetch him!" Jesus said to her: "Mary!" facing him she replied: "Rabboni", meaning "master!" John 20:11-18*  
 
 ### Let us pray
 
@@ -73,13 +76,13 @@ Spread the good news over all the earth – Jesus has died and is risen! +
 
 ## Fourth Station: Jesus joins two disciples on the road to Emmaus
 
-![Image](station-04.jpeg)
+![Image](images/the-way-of-light-beyond-the-cross/station-04.jpeg)
 
-*Jesus said to them: “What are you talking about as you walk along?” They stood still with sad faces. One of them replied: “You must be the only one in Jerusalem who doesn’t know the things that have been happening there these last few days!” Then Jesus said: “How foolish you are; how slow you are to believe everything the prophets wrote.” And he went on to explain what was said about himself in all the scriptures, beginning from the books of Moses to the writings of all the prophets. Luke 24:13-27*  
+*Jesus said to them: "What are you talking about as you walk along?" They stood still with sad faces. One of them replied: "You must be the only one in Jerusalem who doesn’t know the things that have been happening there these last few days!" Then Jesus said: "How foolish you are; how slow you are to believe everything the prophets wrote." And he went on to explain what was said about himself in all the scriptures, beginning from the books of Moses to the writings of all the prophets. Luke 24:13-27*  
 
 ### Let us pray
 
-Risen Lord, you joined your two disciples as in their confusion they tried to walk away from it all. You helped them to understand the true meaning of the events that had made them so sad. Their invitation: “Stay with us” has become our prayer. Help us to keep recognising you in the ones who walk beside us in our times of trouble. Amen.  
+Risen Lord, you joined your two disciples as in their confusion they tried to walk away from it all. You helped them to understand the true meaning of the events that had made them so sad. Their invitation: "Stay with us" has become our prayer. Help us to keep recognising you in the ones who walk beside us in our times of trouble. Amen.  
 
 ### Let us sing
 
@@ -87,15 +90,16 @@ Jesus promised life to all
 Walk, walk in the Light!  
 The dead were wakened by his call!  
 Walk, walk in the Light!  
-\+ Walk in the Light [x3], walk in the Light of God!  
+\+ Walk in the Light [x3],  
+walk in the Light of God!  
 He died in pain on Calvary, Walk...  
 To save the lost like you and me, Walk... +  
 
 ## *Fifth Station: Jesus is recognised in the breaking of bread
 
-![Image](station-05.jpeg)
+![Image](images/the-way-of-light-beyond-the-cross/station-05.jpeg)
 
-*As they reached the village to which they were going, Jesus acted as if he intended to go on further, but they held him back saying: “Stay with us; the day is almost over and it is getting dark!” So he went in and sat down to eat with them. He took bread, said the blessing, broke it and gave it to them. At that moment their eyes were opened and they recognised him, but he vanished from their sight. They said to each other then: "Wasn’t it like a fire burning in us when he talked to us on the road explaining the scriptures?" Luke 28-35*  
+*As they reached the village to which they were going, Jesus acted as if he intended to go on further, but they held him back saying: "Stay with us; the day is almost over and it is getting dark!" So he went in and sat down to eat with them. He took bread, said the blessing, broke it and gave it to them. At that moment their eyes were opened and they recognised him, but he vanished from their sight. They said to each other then: "Wasn’t it like a fire burning in us when he talked to us on the road explaining the scriptures?" Luke 28-35*  
 
 ### Let us pray
 
@@ -111,9 +115,9 @@ Jesus is the Lord! Jesus is the Lord!
 
 ## Sixth Station: Jesus appears to a group of the apostles behind closed doors
 
-![Image](station-06.jpeg)
+![Image](images/the-way-of-light-beyond-the-cross/station-06.jpeg)
 
-*As they were eating, suddenly the Lord himself stood among them: “Peace be with you” he said. But they were terrified thinking that they were seeing a ghost. He said to them: “Why are you so afraid? Why all these doubts in your minds? Look at my hands and my feet, and see that it is I. A ghost does not have flesh and bones as you can see I have! They still could not believe, even though they were filled with joy and wonder. He asked them: “Have you anything to eat? They gave him a piece of cooked fish, which he took and ate in their presence. Luke 24:36-43*  
+*As they were eating, suddenly the Lord himself stood among them: "Peace be with you" he said. But they were terrified thinking that they were seeing a ghost. He said to them: "Why are you so afraid? Why all these doubts in your minds? Look at my hands and my feet, and see that it is I. A ghost does not have flesh and bones as you can see I have! They still could not believe, even though they were filled with joy and wonder. He asked them: "Have you anything to eat? They gave him a piece of cooked fish, which he took and ate in their presence. Luke 24:36-43*  
 
 ### Let us pray
 
@@ -129,9 +133,9 @@ In you our salvation, in you all our love.
 
 ## Seventh Station: Jesus empowers his disciples to forgive sins
 
-![Image](station-07.jpeg)
+![Image](images/the-way-of-light-beyond-the-cross/station-07.jpeg)
 
-*Again Jesus came and stood among them as they were gathered behind locked doors. “Peace be with you” he said. “As the Father sent me, so I am sending you!” Then he breathed on them and said: “Receive the Holy Spirit. Those whose sins you forgive, will be forgiven. Those whose sins you retain, they are retained!” John 20:21-23*  
+*Again Jesus came and stood among them as they were gathered behind locked doors. "Peace be with you" he said. "As the Father sent me, so I am sending you!" Then he breathed on them and said: "Receive the Holy Spirit. Those whose sins you forgive, will be forgiven. Those whose sins you retain, they are retained!" John 20:21-23*  
 
 ### Let us pray
 
@@ -143,16 +147,16 @@ God forgave my sins in Jesus’ name,
 I’ve been born again in Jesus’ name;  
 And in Jesus’ name I come to you,  
 To share his love as he told me to!  
-He said: “Freely Freely you have received;  
+He said: "Freely Freely you have received;  
 Freely Freely give!  
 Go in my name and because you believe,  
-Others will know that I live!”  
+Others will know that I live!"  
 
 ## Eighth Station: Jesus confirms the faith of Thomas
 
-![Image](station-08.jpeg)
+![Image](images/the-way-of-light-beyond-the-cross/station-08.jpeg)
 
-*Thomas was not with them when Jesus came, and he refused to believe them. Eight days later the disciples were in the house and Thomas was with them. The doors were closed but Jesus came and stood among them. He said to Thomas: “Reach out your hand and put it into my side. Look at my hands! Doubt no longer, but believe!” Thomas said: “My Lord and my God!” Jesus replied: “You believe because you can see me. Blessed are they who will believe without having seen me.” John 20:24-29*  
+*Thomas was not with them when Jesus came, and he refused to believe them. Eight days later the disciples were in the house and Thomas was with them. The doors were closed but Jesus came and stood among them. He said to Thomas: "Reach out your hand and put it into my side. Look at my hands! Doubt no longer, but believe!" Thomas said: "My Lord and my God!" Jesus replied: "You believe because you can see me. Blessed are they who will believe without having seen me." John 20:24-29*  
 
 ### Let us pray
 
@@ -167,9 +171,9 @@ That Jesus you are Lord!
 
 ## Ninth Station: Jesus appears on the shore of lake Tiberias
 
-![Image](station-09.jpeg)
+![Image](images/the-way-of-light-beyond-the-cross/station-09.jpeg)
 
-Simon-Peter said to the other disciples: “I’m going fishing”. “We’ll come with you!” they replied. So they went out in the boat but caught nothing all night. As day broke, Jesus stood on the shore, though the disciples did not realise it was Jesus. Jesus called out: Have you caught anything friends?” And when they answered “No!”, he said to them: “Throw the net out to starboard and you’ll get something.” They did so and there were so many fish that they could not haul the net in. The disciple Jesus loved said: “It is the Lord!” John 21:1-19*  
+Simon-Peter said to the other disciples: "I’m going fishing". "We’ll come with you!" they replied. So they went out in the boat but caught nothing all night. As day broke, Jesus stood on the shore, though the disciples did not realise it was Jesus. Jesus called out: Have you caught anything friends?" And when they answered "No!", he said to them: "Throw the net out to starboard and you’ll get something." They did so and there were so many fish that they could not haul the net in. The disciple Jesus loved said: "It is the Lord!" John 21:1-19*  
 
 ### Let us pray
 
@@ -187,9 +191,9 @@ Now with you I will seek other shores!
 
 ## Tenth Station: Jesus commissions Peter to take care of his flock, the Church
 
-![Image](station-10.jpeg)
+![Image](images/the-way-of-light-beyond-the-cross/station-10.jpeg)
 
-*Jesus then asked Peter three times: “Simon, son of John, do you love me more than these others do?” He answered: “Yes Lord, you know how much I love you!” Jesus said to him: “Feed my lambs! Take care of my sheep!” John 21:15- 18*  
+*Jesus then asked Peter three times: "Simon, son of John, do you love me more than these others do?" He answered: "Yes Lord, you know how much I love you!" Jesus said to him: "Feed my lambs! Take care of my sheep!" John 21:15- 18*  
 
 ### Let us pray
 
@@ -212,9 +216,9 @@ The people of darkness need the Good News! +
 
 ## Eleventh Station: Jesus entrusts his disciples with his mission to the whole world
 
-![Image](station-11.jpeg)
+![Image](images/the-way-of-light-beyond-the-cross/station-11.jpeg)
 
-*Jesus said to them: “Go throughout the whole world and preach the gospel to all mankind. Whoever believes and is baptised will be saved. Whoever does not believe will be condemned. And believers will be given the power to perform miracles. They will drive out demons in my name; they will speak in strange tongues; if they pick up snakes or drink poison, they will not be harmed; they will place their hands on the sick, and these will be healed!” Mark 16:15-18*  
+*Jesus said to them: "Go throughout the whole world and preach the gospel to all mankind. Whoever believes and is baptised will be saved. Whoever does not believe will be condemned. And believers will be given the power to perform miracles. They will drive out demons in my name; they will speak in strange tongues; if they pick up snakes or drink poison, they will not be harmed; they will place their hands on the sick, and these will be healed!" Mark 16:15-18*  
 
 *(Matthew 28:16-20 / Acts 1:6-8 / Luke 24:46-47)*  
 
@@ -236,9 +240,11 @@ And go tell everyone the news that God’s Kingdom has come.
 
 ## Twelfth Station: Jesus ascends into heaven
 
-*Then he led them out as ![Image](station-12.jpeg)far as Bethany, and blessed them with uplifted hands; and in the act of blessing them, he parted from them. They still had their eyes fixed on him when two men dressed in white suddenly stood beside them and said: “Galileans, why are you standing there looking up at the sky? This Jesus who was taken from you into heaven will come back in the same way you saw him go to heaven!” Luke:24:50-52 / Acts 1:9-11*  
+![Image](images/the-way-of-light-beyond-the-cross/station-12.jpeg)
 
-### Let us pray 
+*Then he led them out as far as Bethany, and blessed them with uplifted hands; and in the act of blessing them, he parted from them. They still had their eyes fixed on him when two men dressed in white suddenly stood beside them and said: "Galileans, why are you standing there looking up at the sky? This Jesus who was taken from you into heaven will come back in the same way you saw him go to heaven!" Luke:24:50-52 / Acts 1:9-11*  
+
+### Let us pray
 
 Risen Lord, your promise of the gift of the Holy Spirit and your promise to be with us always, fills us with joy. Where you, the head have preceded us in glory, we, the body, hope to follow. Seated at the right hand of the Father, intercede for us now, as we place all our trust in you, our eternal priest. Amen.  
 
@@ -251,7 +257,7 @@ Blessed Redeemer, living Word!
 
 ## Thirteenth Station: Mary and the apostles wait for the coming of the Holy Spirit
 
-![Image](station-13.jpeg)
+![Image](images/the-way-of-light-beyond-the-cross/station-13.jpeg)
 
 *The apostles then went back to the city and to the room where they had been staying. They gathered frequently to pray as a group, together with the women and with Mary the mother of Jesus. Acts 1:12-14*  
 
@@ -267,9 +273,9 @@ Spirit of the living God, fall afresh on me/us!
 
 ## Fourteenth Station: Pentecost – The Holy Spirit descends upon the apostles in the form of tongues of fire
 
-![Image](station-14.jpeg)
+![Image](images/the-way-of-light-beyond-the-cross/station-14.jpeg)
 
-*When the day of Pentecost came, all the believers were gathered together in one place. Suddenly there was a noise from the sky which sounded like a strong wind blowing, and it filled the whole house where they were sitting. Then they saw what looked like tongues of fire which spread out and touched each person there. They were all filled with the Holy Spirit and began to talk in other languages as the Spirit enabled them to speak!” Acts 2:1-42*  
+*When the day of Pentecost came, all the believers were gathered together in one place. Suddenly there was a noise from the sky which sounded like a strong wind blowing, and it filled the whole house where they were sitting. Then they saw what looked like tongues of fire which spread out and touched each person there. They were all filled with the Holy Spirit and began to talk in other languages as the Spirit enabled them to speak!" Acts 2:1-42*  
 
 ### Let us pray
 
@@ -286,4 +292,4 @@ Come Holy Spirit fill our hearts!
 
 ## Final Prayer
 
-Father, so great is your love for us that you call us your children. Even more, you sent Jesus to show us how to live, he who is the Way the Truth and the Life. Bless us now with the gift of the Holy Spirit that we might pray with conviction; “Come Lord Jesus!” Help us to know him better and to share our experience of him with others as we prepare for and cross the threshold into the third millennium. We make our prayer through Christ our Lord. Amen.  
+Father, so great is your love for us that you call us your children. Even more, you sent Jesus to show us how to live, he who is the Way the Truth and the Life. Bless us now with the gift of the Holy Spirit that we might pray with conviction; "Come Lord Jesus!" Help us to know him better and to share our experience of him with others as we prepare for and cross the threshold into the third millennium. We make our prayer through Christ our Lord. Amen.  
