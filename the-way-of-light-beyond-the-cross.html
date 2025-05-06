@@ -7,29 +7,55 @@
 	<title>Kilcornan Parish - The Way of Light Beyond the Cross</title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.1.0/dist/reveal.css">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.1.0/dist/theme/white.css">
+	<link rel="stylesheet" href="src/css/reveal.css">
 	<style>
+		html,
+		body {
+			margin: 0;
+			padding: 0;
+			height: 100%;
+			overflow: hidden;
+		}
+
+		.reveal {
+			height: 100%;
+		}
+
+		.slides section {
+			display: flex;
+			flex-direction: column;
+			height: 100%;
+		}
+
 		.top-banner {
-			background-color: hsl(246, 100%, 50%);
+			background-color: #1900ff;
 			color: white;
+			flex: 0 0 auto;
 			font-size: 1em;
+			font-weight: bold;
+			line-height: 1.5em;
 			padding: 0;
 			text-align: center;
 			text-transform: uppercase;
 		}
 
 		.slide-content {
-			display: flex;
 			align-items: center;
+			display: flex;
+			flex: 1 1 auto;
 			justify-content: center;
-			gap: 40px;
+			gap: 20px;
 			padding: 0px;
+			width: 100%;
 		}
 
 		.slide-content img {
+			border: black solid 5px;
 			align-self: flex-start;
-			max-width: 40%;
-			height: auto;
 			border-radius: 0px;
+			height: auto;
+			max-width: 30%;
+			object-fit: contain;
 		}
 
 		.slide-content .text {
@@ -42,25 +68,9 @@
 		.bottom-footer {
 			height: 5px;
 			background-color: #1900ff;
-			margin-top: 0px;
+			flex: 0 0 auto;
 		}
 	</style>
-	<script>
-		let revealSetting = {
-			center: true,
-			controls: true,
-			height: 1080, // Matches 16:9 ratio
-			history: true,
-			plugins: [RevealMarkdown],
-			progress: true,
-			width: 1920, // Matches 16:9 ratio
-		};
-		Reveal.initialize(revealSetting);
-
-		Reveal.on('ready', function (event) {
-			addFullscreenToggleFunctionality();
-		});
-	</script>
 </head>
 
 <body>
@@ -71,7 +81,7 @@
 				<div class="slide-content">
 					<img src="images/the-way-of-light-beyond-the-cross/station-01.png" alt="Slide 3 Image">
 					<div class="text">
-						<em>The women discover that the tomb where Jesus was placed is empty.<br/><br/>Luke 24:1-9</em>
+						<em>The women discover that the tomb where Jesus was placed is empty.<br /><br />Luke 24:1-9</em>
 					</div>
 				</div>
 				<div class="bottom-footer"></div>
@@ -115,9 +125,24 @@
 	</div>
 
 	<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.1.0/dist/reveal.js"></script>
+	<script src="src/js/full-screen-controls.js"></script>
 	<script>
-		Reveal.initialize();
+		let revealSetting = {
+			center: true,
+			controls: true,
+			height: 1080, // Matches 16:9 ratio
+			history: true,
+			progress: true,
+			width: 1920, // Matches 16:9 ratio
+		};
+
+		Reveal.initialize(revealSetting);
+
+		Reveal.on('ready', function (event) {
+			addFullscreenToggleFunctionality();
+		});
 	</script>
+
 </body>
 
 </html>
